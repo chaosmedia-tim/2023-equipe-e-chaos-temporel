@@ -2,7 +2,7 @@
 # Modèle github pages pour votre journal de création
 
 ## Lien pour visualiser le site (À CHANGER)
-https://chaomedia-tim.github.io/2023-equipe-e-chaos-temporel
+https://chaosmedia-tim.github.io/2023-equipe-e-chaos-temporel/
 
 
 ## Consignes
