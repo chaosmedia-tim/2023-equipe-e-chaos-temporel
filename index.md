@@ -1,5 +1,5 @@
 ---
-title: Nom du projet (À CHANGER)
+title: Chaos temporel
 layout: home
 ---
 
