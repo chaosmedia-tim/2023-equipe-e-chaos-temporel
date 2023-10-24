@@ -19,4 +19,4 @@ création d'élément 3D additionnel pour meumbler l'intérieur de la course.
 
 ## échec
 
---> Jean-Chrystophe: aucun a reporter. 
+--> Jean-Chrystophe: aucun a reporté. 
