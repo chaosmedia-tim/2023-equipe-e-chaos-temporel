@@ -12,11 +12,11 @@ Vous devez inclure des images, liens et autre contenu nécéssaire pour supporte
 ## réussite
 
 
---> Jean-Chrystophe: corection et 
+--> Jean-Chrystophe: correction des mesure lier à l'emplasement de la scene. 
 ![maquettes scénographiques](../medias/scene3D.jpg)
 
 
 
 ## échec
 
---> Jean-Chrystophe: 
+--> Jean-Chrystophe: aucun a reporter. 
