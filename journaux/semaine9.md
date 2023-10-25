@@ -6,6 +6,12 @@ layout: post
 ## réussite
 
 
+## Tâches effectuées
+
+
+
+## Difficultés et défis
+
 
 
 ## échec
