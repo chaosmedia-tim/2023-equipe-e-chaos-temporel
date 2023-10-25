@@ -11,10 +11,7 @@ Vous devez inclure des images, liens et autre contenu nécéssaire pour supporte
 
 ## Réussitess
 
-
---> Jean-Chrystophe: Création de model 3D et correction des mesure liées à l'emplasement de la scene dans la maquettes scénographiqueune dimension de 16pied par 16pied par 8ped. 
-![maquettes scénographiques](../medias/scene3D.jpg)
-création d'élément 3D additionnel pour meumbler l'intérieur de la course.
+aucune
 
 
 
@@ -24,6 +21,11 @@ Jordan Dallaire : Création du répertoire du projet Unity, programmation du nou
 
 Github : 
 ![Répertoire de base](../medias/github_projet.jpg)
+
+--> Jean-Chrystophe: Création de model 3D et correction des mesure liées à l'emplasement de la scene dans la maquettes scénographiqueune dimension de 16pied par 16pied par 8ped. 
+![maquettes scénographiques](../medias/scene3D.jpg)
+création d'élément 3D additionnel pour meumbler l'intérieur de la course.
+
 
 
 
