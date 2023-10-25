@@ -26,6 +26,9 @@ Github :
 ![maquettes scénographiques](../medias/scene3D.jpg)
 création d'élément 3D additionnel pour meumbler l'intérieur de la course.
 
+Nicholas Desroches: Création d'élément 3D pour a ajouter dans la course et début de l'intégration de la map sur Unity.
+
+.
 
 
 
