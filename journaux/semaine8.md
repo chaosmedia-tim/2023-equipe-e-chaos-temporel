@@ -28,6 +28,7 @@ création d'élément 3D additionnel pour meumbler l'intérieur de la course.
 
 Nicholas Desroches: Création d'élément 3D pour a ajouter dans la course et début de l'intégration de la map sur Unity.
 
+Filip Vojinovic: Création de model 3D, changement et courbature de la piste de course, redimentionner le terrain, ajout des réseaux sociaux et création de quelques meme (image drôle) sur ces réseaux sociaux
 .
 
 
@@ -38,7 +39,10 @@ Jordan Dallaire : L'utilisation de GitHub pour notre projet comporte en soi un r
 Voici un exemple avec le nav mesh tiré d'une vidéo de démonstration  :
 [exemple du nav mesh](https://www.youtube.com/watch?v=TTOHsdEmKko)
 
+Filip Vojinovic : Ajouté du sol sur blender comportera plusieurs vertices, alors il est préférable de faire le sol sur Unity
+
 
 ## Échecs
+--> Filip Vojinovic : Faire le sol sur blender : solution Unity
 
 --> Jean-Chrystophe: aucun a reporté. 
