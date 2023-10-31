@@ -25,6 +25,14 @@ Avec l'aide de Phind (un moteur de recherche IA pour les programmeurs), il a ré
 
 Pour ce qui est du point d'arrivée, il a un collider trigger qui place le joueur ou l'ordinateur dans un tableau produisant un classement. Ce qu'il resterait à faire est de produire un Scriptable Object pour permettre au autre script de prendre l'information ou un moyen de la partager.
 
+Jordan Dallaire a programmé la collision entre les joueurs et a créé un système de checkpoint pour guider l'IA vers la fin de la course.
+
+### Script de collision des joueurs
+![Collision des joueurs](../medias/collision.jpg)
+
+### Script pour gérer les checkpoints
+![Checkpoints](../medias/checkpoint.jpg)
+
 ## Difficultés et défis
 
 
