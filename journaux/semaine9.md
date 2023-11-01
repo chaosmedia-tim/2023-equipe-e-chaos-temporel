@@ -12,6 +12,12 @@ Shayne Fortier a pris la charge de programmer le point de départ et le point d'
 
 Avec l'aide de Phind (un moteur de recherche IA pour les programmeurs), il a réalisé le code en ayant un champ pour pouvoir inclure les véhicules des joueurs et des adversaires. Ensuite, il cherche les GameObjects enfants et stocke les coordonnées Vector3 de la position de chacun en fonction de la position de chacun. Ensuite, on fait une boucle qui place les véhicules aléatoirement sans occuper la même place.
 
+Jean-Chrystophe a monté une video promotionnel liée à l'avancement générale de projet.
+![capture de la conception vidéo](../medias/capture_compo_vid.png)
+
+Jean-Chrystophe a fais de grand avancement dans le mesurage et le découpage des pièces en bois pour le banc et la base de se dernier.
+![Photo de Jean-Chrystophe après avoir découper des morceaux](../medias/découpage_base_banc.png)
+
 ### Avant
 ![Capture écran de l'état avant l'ajout de point de départ et d'arrivé](../medias/avant-depart.png)
 
