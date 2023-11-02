@@ -33,6 +33,8 @@ Pour ce qui est du point d'arrivée, il a un collider trigger qui place le joueu
 
 Jordan Dallaire a programmé la collision entre les joueurs et a créé un système de checkpoint pour guider l'IA vers la fin de la course.
 
+Filip Vojinovic : Fait quelques assets, ajout de photo sur les réseaux sociaux et fait le terrain sur Unity
+
 ### Script de collision des joueurs
 ![Collision des joueurs](../medias/collision.jpg)
 
@@ -40,7 +42,7 @@ Jordan Dallaire a programmé la collision entre les joueurs et a créé un syst�
 ![Checkpoints](../medias/checkpoint.jpg)
 
 ## Difficultés et défis
-
+Filip : quelques assets étaient composés de plusieurs faces, donc Nicholas les a corrigés
 
 
 ## échec
