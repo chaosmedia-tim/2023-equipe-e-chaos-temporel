@@ -35,6 +35,8 @@ Jordan Dallaire a programmé la collision entre les joueurs et a créé un syst�
 
 Filip Vojinovic : Fait quelques assets, ajout de photo sur les réseaux sociaux et fait le terrain sur Unity
 
+Nicholas Desroches :  J'ai fait quelques assets sur Blender et optimisé un assets qui avait beaucoup trop de polygons.
+
 ### Script de collision des joueurs
 ![Collision des joueurs](../medias/collision.jpg)
 
