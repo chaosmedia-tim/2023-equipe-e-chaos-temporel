@@ -9,6 +9,16 @@ layout: post
 
 Jordan Dallaire : À réglé et programmé l'IA pour qu'elle puisse se déplacer en suivant les checkpoints, lesquels se déplacent tous les 5 secondes le long de l'axe des x. Il a également créé une animation d'introduction au début de la course, ainsi qu'une attente de 3 secondes avant le début de la course.
 
+Jean-Chrystophe Fréreault : A fini de composé la vidéo de présentation du sprint 2 
+
+![Capture écran de la vidéo de présentation](../medias/présentation.png)
+
+et c'est avancé dans la construction des base des banc.
+
+![photo d'une base de banc commencer a être monter](../medias/base_de_banc.jpg)
+
+
+
 ### Image de l'intro
 ![Capture écran d'une partie de l'intro](../medias/capture_intro_sem10.jpg)
 
