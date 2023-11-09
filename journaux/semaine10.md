@@ -11,6 +11,8 @@ Jordan Dallaire : À réglé et programmé l'IA pour qu'elle puisse se déplacer
 
 Jean-Chrystophe Fréreault : A fini de composé la vidéo de présentation du sprint 2 
 
+Filip Vojinovic : À mis sur les réseaux sociaux des posts, avancement des assets, construction de la ville cyberpunk, j'ai réglé certaine courbature sur le terrain qui est sur Unity
+
 ![Capture écran de la vidéo de présentation](../medias/présentation.png)
 
 et c'est avancé dans la construction des base des banc.
