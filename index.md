@@ -14,3 +14,5 @@ Chaos temporel est une course interactive ou deux "joueurs" aller participer à 
 [Semaine 9](journaux/semaine9.md)
 
 [Semaine 10](journaux/semaine10.md)
+
+[Semaine 11](journaux/semaine11.md)
