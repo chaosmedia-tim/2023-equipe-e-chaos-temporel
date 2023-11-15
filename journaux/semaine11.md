@@ -28,6 +28,18 @@ Jordan Dallaire : A programmé les scripts des power-ups et a commencé la créa
 ### Fonction pour désactiver le power ups selon son cooldown
 ![Fonction pour désactiver le power ups selon son cooldown](../medias/desactivation_power-ups.jpg)
 
+### Le compteur de la course
+
+Shayne Fortier a travaillé sur le compteur de temps pour calculer le temps que le joueur a pris pour finir la course par rapport aux adversaires. C'était simple, il n'avait qu'à récupérer le code qu'il avait fait dans le cours de média interactif 2 qui comprenait à réaliser des jeux en 2D avec Unity.
+
+![L'aperçu du code du compteur](../medias/race-timer.png)
+![Compteur au départ](../medias/race-timer-result-begin.png)
+![Compteur en marche](../medias/race-timer-result-counting.png)
+
+### Le classement dans la course
+
+Shayne a complété le classement. À la ligne d'arrivé, il enregistre le véhicule dans un ScriptableObject afin que ces informations puisse être utiliser par un autre module comme pour l'écran de fin qui montre le résultat final et annonce le gagnant.
+
 ## Difficultés et défis
 
 
