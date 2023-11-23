@@ -36,6 +36,8 @@ Shayne Fortier a travaillé sur le compteur de temps pour calculer le temps que 
 ![Compteur au départ](../medias/race-timer-result-begin.png)
 ![Compteur en marche](../medias/race-timer-result-counting.png)
 
+Filip Vojinovic : À fait quelques assets sur Blender, changement sur le terrain incluant les ajouts et enlèvements de bâtiments sur Unity. J'ai fait les publications sur les réseaux sociaux et j'ai ajouté et réorganisé le dossier de son.
+
 ### Le classement dans la course
 
 Shayne a complété le classement. À la ligne d'arrivé, il enregistre le véhicule dans un ScriptableObject afin que ces informations puisse être utiliser par un autre module comme pour l'écran de fin qui montre le résultat final et annonce le gagnant.
