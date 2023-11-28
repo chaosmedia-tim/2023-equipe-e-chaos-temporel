@@ -13,6 +13,8 @@ Jean-Chrystophe Fréreault : A fini de composé la vidéo de présentation du sp
 
 Filip Vojinovic : À mis sur les réseaux sociaux des posts, avancement des assets, construction de la ville cyberpunk, j'ai réglé certaine courbature sur le terrain qui est sur Unity
 
+Nicholas: A fait des assets de building Cyberpunk et des tableau publicitaire.
+
 ![Capture écran de la vidéo de présentation](../medias/présentation.png)
 
 et c'est avancé dans la construction des base des banc.
