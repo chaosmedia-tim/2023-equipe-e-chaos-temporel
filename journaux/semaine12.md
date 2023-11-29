@@ -31,7 +31,7 @@ Jordan Dallaire : A travaillé principalement à corriger le plus grand nombre p
 
 ## Difficultés et défis
 
-Jean-Chrystophe Fréreault : les levier m,on donner de grande dificulter et la dificulter d'assemblage dans les temp demander mais j'ai réussi a fini le 29 a 1:30 am.
+Jean-Chrystophe Fréreault : les levier m'on donner de grande dificulter et la dificulter d'assemblage dans les temp demander mais j'ai réussi a fini le 29 a 1:30 am.
 
 
 
