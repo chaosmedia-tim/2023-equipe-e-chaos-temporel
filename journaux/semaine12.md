@@ -1,11 +1,15 @@
 ---
-title: Semaine 112
+title: Semaine 12
 layout: post
 ---
 ## réussite
 
 
 ## Tâches effectuées
+Jean-Chrystophe Fréreault:les autos temponeuses son terminer sauf le manque de peinture a certain endroit. il ne reste qu'a installer les fille électric et le arduino et on peut dire qu'il n'y a plus rien a faire pour.
+[auto temponeuse Rouge terminer](../medias/auto_R.jpg) [auto temponeuse Bleu terminer](../medias/auto_B.jpg)
+
+
 Nicholas: Avancement des map Cyberpunk et Cartoon. Création du script pour les voitures volantes du monde cyberpunk.
 [Voiture volantes](../medias/VoitureVolant.png)
 
@@ -25,6 +29,8 @@ Jordan Dallaire : A travaillé principalement à corriger le plus grand nombre p
 
 
 ## Difficultés et défis
+
+Jean-Chrystophe Fréreault : les levier m,on donner de grande dificulter et la dificulter d'assemblage dans les temp demander mais j'ai réussi a fini le 29 a 1:30 am.
 
 
 
