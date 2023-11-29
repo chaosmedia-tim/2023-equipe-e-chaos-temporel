@@ -7,6 +7,7 @@ layout: post
 
 ## Tâches effectuées
 Jean-Chrystophe Fréreault:les autos temponeuses son terminer sauf le manque de peinture a certain endroit. il ne reste qu'a installer les fille électric et le arduino et on peut dire qu'il n'y a plus rien a faire pour.
+
 ![auto temponeuse Rouge terminer](../medias/auto_R.jpg) ![auto temponeuse Bleu terminer](../medias/auto_B.jpg)
 
 
