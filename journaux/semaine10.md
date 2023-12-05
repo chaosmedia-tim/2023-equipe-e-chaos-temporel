@@ -13,7 +13,7 @@ Jean-Chrystophe Fréreault : A fini de composé la vidéo de présentation du sp
 
 Filip Vojinovic : À mis sur les réseaux sociaux des posts, avancement des assets, construction de la ville cyberpunk, j'ai réglé certaine courbature sur le terrain qui est sur Unity
 
-Nicholas: A fait des assets de building Cyberpunk et des tableau publicitaire.
+Nicholas: A réalisé des assets de building Cyberpunk et des tableaux publicitaires, ainsi que quelques autres assets, pour enrichir le jeu. Il a conçu des immeubles aux formes variées. Il a aussi fabriqué des éléments de décor comme un lampadaire, un ticket de powerup.
 
 ![Capture écran de la vidéo de présentation](../medias/présentation.png)
 

@@ -43,7 +43,7 @@ Filip Vojinovic : À fait quelques assets sur Blender, changement sur le terrain
 
 Shayne a complété le classement. À la ligne d'arrivé, il enregistre le véhicule dans un ScriptableObject afin que ces informations puisse être utiliser par un autre module comme pour l'écran de fin qui montre le résultat final et annonce le gagnant.
 
-Nicholas: A fait les auto tamponneuses de style cyberpunk.
+Nicholas: A créé des auto tamponneuses de style cyberpunk sur Blender, un logiciel de modélisation 3D. Il a utilisé des textures métalliques, des néons et des effets de lumière pour donner une ambiance futuriste à ses véhicules. Il a aussi ajouté des détails comme des antennes.
 ### Auto tamponneuse 
 [Rendu final de la première auto tamponneuse](../medias/CyberCar_01.png)
 [Rendu final de la deuxième auto tamponneuse](../medias/CyberCar_02.png)
