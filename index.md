@@ -20,3 +20,5 @@ Le Chaos Temporel est une course interactive où deux joueurs vont participer à
 [Semaine 12](journaux/semaine12.md)
 
 [Semaine 13](journaux/semaine13.md)
+
+[Semaine 14](journaux/semaine14.md)
