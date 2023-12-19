@@ -13,6 +13,9 @@ Jean-Chrystophe Fréreault: A terminer les bancs a grater pour elever la peintur
 
 Jordan Dallaire :  A ajouté une gravité personnalisée au jeu, car le moteur Unity ne fonctionnait pas très bien avec notre jeu. A résolu le problème du power-up tonneau, assurant son déplacement correct ainsi que son rebond sur les murs. Les corrections sont toujours en cours pour ce qui concerne les déplacements des véhicules en marche arrière.A ajouté un effet de champ de vision (FOV) à la caméra pour simuler la vitesse lorsque le joueur se déplace rapidement. Les mises à jour sont toujours en cours concernant les intelligences artificielles et leurs déplacements, qui nécessitent des corrections.
 
+Filip Vojinovic : Continuation des promotions sur les réseaux sociaux, finalisation des placements d'assets dans la map Cyberpunk et Cartoon, fait un modèle de maison pour la map cartoon, réparation du terrain avec certain patch up.
+![la ville](../medias/VilleAssets.png)
+
 ### Script power-up Sabotage (tonneau)
 ![Script power-up Sabotage](../medias/script_tonneau.png)
 
