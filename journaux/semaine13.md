@@ -23,6 +23,8 @@ Nicholas Desroches: A fait deux autres modèles de voitures de style cyberpunk. 
 
 Jordan Dallaire : A aidé à installer le projet lors de la générale du 29 novembre, avec l'assistance de toute l'équipe. A ajouté un effet pour le mode chaos Inversion de contrôle, a corrigé le bug des power-ups pour les joueurs réels, ainsi que le problème où les joueurs étaient propulsés s'ils avançaient pendant l'effet de gel du mode chaos. A également ajouté un centre de masse à tous les véhicules pour éviter qu'ils ne se renversent.
 
+Filip Vojinovic : Continuation des promotions sur les réseaux sociaux, Facebook et Instagram. Correction des terrains suites au track. Effacement des arbres, des roches dans la map cartoon. Légèrement commencer l'emplacement/importations des autres assets sur les maps. 
+
 ### Effet chaos inversement contrôle
 ![chaos inversement contrôle](../medias/inver_chaos.jpg)
 
